@@ -4,7 +4,7 @@ he largest Fortnite Builds Archive maintained by koz.
 
 # Usage & Other information.
 
-<td><a href="https://fmodel.app/">Fmodel</a></td>
+AES for Fmodel <td><a href="https://fmodel.app/">Fmodel</a></td>
 
 # Downloads
 
