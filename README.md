@@ -15,7 +15,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 
 Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 
-My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
+My Discord server: [https://discord.gg/D9jVGQpBf2](https://discord.gg/g6UbsvParU) (Easiest way for you to contact me).
 
 # Downloads
 
