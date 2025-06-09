@@ -21,6 +21,7 @@ he largest Fortnite Builds Archive maintained by koz.
       <td>OT6.5-CL-2870186</td>
       <td>28-02-16</td>
       <td>UE4.12-2870186</td>
+      <td>0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L</td>
       <td><a href="https://public.simplyblk.xyz/OT0.6.5.zip">https://public.simplyblk.xyz/OT0.6.5.zip</a></td>
     </tr>
     <tr>
