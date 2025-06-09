@@ -4,20 +4,6 @@ he largest Fortnite Builds Archive maintained by koz.
 
 # Downloads
 
-# Pre-BattleRoyale
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <style>
-    body {
-      background-color: #1e1e1e;
-      color: #ffffff;
-      font-family: Arial, sans-serif;
-    }
-
-   
   </style>
 </head>
 <body>
@@ -58,17 +44,6 @@ he largest Fortnite Builds Archive maintained by koz.
 </html>
 
 # Season 1
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <style>
-    body {
-      background-color: #1e1e1e;
-      color: #ffffff;
-      font-family: Arial, sans-serif;
-    }
-
 
   </style>
 </head>
