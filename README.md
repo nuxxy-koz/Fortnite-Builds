@@ -4,9 +4,7 @@ he largest Fortnite Builds Archive maintained by koz.
 
 # Downloads
 
-  </style>
-</head>
-<body>
+
 
 <table>
   <thead>
@@ -45,9 +43,7 @@ he largest Fortnite Builds Archive maintained by koz.
 
 # Season 1
 
-  </style>
-</head>
-<body>
+
 
 <table>
   <thead>
