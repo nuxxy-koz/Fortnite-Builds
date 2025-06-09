@@ -17,33 +17,7 @@ he largest Fortnite Builds Archive maintained by koz.
       font-family: Arial, sans-serif;
     }
 
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      max-width: 800px;
-      margin: 20px auto;
-      background-color: #2b2b2b;
-    }
-
-    th, td {
-      border: 1px solid #444;
-      padding: 10px;
-      text-align: left;
-    }
-
-    th {
-      background-color: #1f1f1f;
-      font-weight: bold;
-    }
-
-    a {
-      color: #4ea1f2;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
+   
   </style>
 </head>
 <body>
