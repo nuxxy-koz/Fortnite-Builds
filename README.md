@@ -28,12 +28,14 @@ he largest Fortnite Builds Archive maintained by koz.
       <td>Cert-CL-3532353</td>
       <td>20-07-17</td>
       <td>UE4.16-3532353</td>
+      <td>0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>1.2-CL-3541083</td>
       <td>21-07-17</td>
       <td>UE4.16-3541083</td>
+      <td>0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L</td>
       <td>N/A</td>
     </tr>
   </tbody>
