@@ -4,12 +4,12 @@ he largest Fortnite Builds Archive maintained by koz.
 
 # Usage & Other information.
 
-<td><a href="[https://public.simplyblk.xyz/OT0.6.5.zip](https://fmodel.app/)">[https://public.simplyblk.xyz/OT0.6.5.zip](https://fmodel.app/)</a></td>
+<td><a href="https://fmodel.app/">https://fmodel.app/</a></td>
 
 # Downloads
 
 <table>
-  <thead>
+  <thead>z
     <tr>
       <th>Build</th>
       <th>Date</th>
