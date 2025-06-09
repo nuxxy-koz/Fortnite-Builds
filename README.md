@@ -9,7 +9,7 @@ AES for Fmodel <td><a href="https://fmodel.app/">Fmodel</a></td>
 # Downloads
 
 <table>
-  <thead>z
+  <thead>Pre-BattleRoyale
     <tr>
       <th>Build</th>
       <th>Date</th>
